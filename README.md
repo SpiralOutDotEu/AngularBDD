@@ -1,5 +1,7 @@
 # AngularBDD
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SpiralOutDotEu/AngularBDD.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/SpiralOutDotEu/AngularBDD.svg?branch=master)](https://travis-ci.org/SpiralOutDotEu/AngularBDD)
 
 Scope of this project is to extend test capabilities of an Angular app with BDD testing functionality using CucumberJS and SerenityJS.
