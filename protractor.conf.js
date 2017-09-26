@@ -8,7 +8,8 @@ exports.config = {
     'browserName': 'chrome'
   },
   
-  allScriptsTimeout: 20000,
+  allScriptsTimeout: 60000,
+  getPageTimeout: 60000,
   
   
   directConnect: true,
