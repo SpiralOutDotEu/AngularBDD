@@ -7,7 +7,10 @@ exports.config = {
   capabilities: {
     'browserName': 'chrome'
   },
-
+  
+  allScriptsTimeout: 20000,
+  
+  
   directConnect: true,
   baseUrl: 'http://localhost:4200/',
   // Framework definition - tells Protractor to use Serenity/JS
